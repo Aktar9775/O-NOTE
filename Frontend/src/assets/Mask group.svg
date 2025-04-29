@@ -1,0 +1,58 @@
+<svg width="656" height="549" viewBox="0 0 656 549" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g style="mix-blend-mode:overlay">
+<mask id="mask0_444_19293" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="656" height="549">
+<g style="mix-blend-mode:soft-light">
+<path d="M1 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M37.3328 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M73.6665 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M110.001 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M146.334 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M182.667 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M219 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M255.333 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M291.667 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M328 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M364.333 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M400.667 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M437.001 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M473.334 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M509.667 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M546 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M582.333 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M618.667 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M655 0.697266V547.514" stroke="#B3B3B3"/>
+<path d="M1 547.514H655" stroke="#B3B3B3"/>
+<path d="M1 517.135H655" stroke="#B3B3B3"/>
+<path d="M1 486.756H655" stroke="#B3B3B3"/>
+<path d="M1 456.378H655" stroke="#B3B3B3"/>
+<path d="M1 425.999H655" stroke="#B3B3B3"/>
+<path d="M1 395.62H655" stroke="#B3B3B3"/>
+<path d="M1 365.242H655" stroke="#B3B3B3"/>
+<path d="M1 334.863H655" stroke="#B3B3B3"/>
+<path d="M1 304.484H655" stroke="#B3B3B3"/>
+<path d="M1 274.106H655" stroke="#B3B3B3"/>
+<path d="M1 243.727H655" stroke="#B3B3B3"/>
+<path d="M1 213.348H655" stroke="#B3B3B3"/>
+<path d="M1 182.969H655" stroke="#B3B3B3"/>
+<path d="M1 152.591H655" stroke="#B3B3B3"/>
+<path d="M1 122.212H655" stroke="#B3B3B3"/>
+<path d="M1 91.8335H655" stroke="#B3B3B3"/>
+<path d="M1 61.4546H655" stroke="#B3B3B3"/>
+<path d="M1 31.076H655" stroke="#B3B3B3"/>
+<path d="M1 0.697266H655" stroke="#B3B3B3"/>
+</g>
+</mask>
+<g mask="url(#mask0_444_19293)">
+<g filter="url(#filter0_f_444_19293)">
+<circle cx="317.9" cy="323.345" r="330.156" fill="#D9D9D9"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_444_19293" x="-96.4568" y="-91.0114" width="828.713" height="828.713" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="42.1" result="effect1_foregroundBlur_444_19293"/>
+</filter>
+</defs>
+</svg>

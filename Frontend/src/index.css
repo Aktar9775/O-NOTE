@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+:root {
+  font-family: poppins;
+  color-scheme: light dark;
+  background-color:rgb(11, 12, 18);
+}
